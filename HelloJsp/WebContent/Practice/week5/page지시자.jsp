@@ -20,4 +20,4 @@
 	int zero = 0;
 %>
 <h2>사칙연산 하다가 0을 나누게 됐을 때 에러페이지 출력!</h2>
-<%--one/zero=<%=one/zero%> --%> 
+one/zero=<%=one/zero%>
