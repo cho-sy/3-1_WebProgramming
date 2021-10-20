@@ -9,6 +9,6 @@
 		<TD>นฮมุ</TD><td bgcolor="#0000ff" rowspan=2>ผญมุ</td>
 	</TR>
 	<TR>
-		<TD colspan=2>วýฟฌ</TD>
+		<T	D colspan=2>วýฟฌ</TD>
 	</TR>
 </Table>
